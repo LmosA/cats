@@ -1,0 +1,15 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=CATSCOIN Core
+Comment=CATSCOIN Core QT test network
+GenericName=CATSCOIN Digital Currency QT client testnet network
+Exec=catscoin-core.qt-testnet %u
+Terminal=false
+Type=Application
+Icon=${SNAP}/share/pixmaps/catscoin_testnet.png
+MimeType=x-scheme-handler/cats;
+Categories=X-Office;X-Finance;
+Keywords=internet;catscoin;zcats;tcats;core;wallet;qt;testnet;snap;launchpad;crypto;digital;currency;coin;token;zerocoin;
+Version=1.0

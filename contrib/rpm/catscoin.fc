@@ -1,0 +1,8 @@
+/usr/bin/catscoin-cli		--	gen_context(system_u:object_r:catscoin_exec_t,s0)
+/usr/sbin/catscoind		--	gen_context(system_u:object_r:catscoin_exec_t,s0)
+/usr/lib(64)?/catscoin/catscoind		--	gen_context(system_u:object_r:catscoin_exec_t,s0)
+
+/etc/catscoin(/.*)?		gen_context(system_u:object_r:catscoin_conf_t,s0)
+/var/lib/catscoin(/.*)?		gen_context(system_u:object_r:catscoin_var_lib_t,s0)
+
+(/var)?/run/catscoind(/.*)?   gen_context(system_u:object_r:catscoin_var_run_t,s0)

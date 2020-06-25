@@ -1,0 +1,81 @@
+policy_module(catscoin, 1.100.1)
+
+########################################
+#
+# Declarations
+#
+
+type catscoin_t;
+type catscoin_exec_t;
+init_daemon_domain(catscoin_t, catscoin_exec_t)
+
+permissive catscoin_t;
+
+type catscoin_initrc_exec_t;
+init_script_file(catscoin_initrc_exec_t)
+
+type catscoin_conf_t;
+files_type(catscoin_conf_t)
+
+type catscoin_var_lib_t;
+files_type(catscoin_var_lib_t)
+
+type catscoin_var_run_t;
+files_type(catscoin_var_run_t)
+
+type catscoin_port_t;
+corenet_port(catscoin_port_t)
+
+########################################
+#
+# catscoin local policy
+#
+allow catscoin_t self:process { fork };
+
+allow catscoin_t self:fifo_file rw_fifo_file_perms;
+allow catscoin_t self:unix_stream_socket create_stream_socket_perms;
+
+manage_dirs_pattern(catscoin_t, catscoin_conf_t, catscoin_conf_t)
+manage_files_pattern(catscoin_t, catscoin_conf_t, catscoin_conf_t)
+
+manage_dirs_pattern(catscoin_t, catscoin_var_lib_t, catscoin_var_lib_t)
+manage_files_pattern(catscoin_t, catscoin_var_lib_t, catscoin_var_lib_t)
+files_var_lib_filetrans(catscoin_t, catscoin_var_lib_t, { dir file })
+
+manage_dirs_pattern(catscoin_t, catscoin_var_run_t, catscoin_var_run_t)
+manage_files_pattern(catscoin_t, catscoin_var_run_t, catscoin_var_run_t)
+
+sysnet_dns_name_resolve(catscoin_t)
+corenet_all_recvfrom_unlabeled(catscoin_t)
+
+allow catscoin_t self:tcp_socket create_stream_socket_perms;
+corenet_tcp_sendrecv_generic_if(catscoin_t)
+corenet_tcp_sendrecv_generic_node(catscoin_t)
+corenet_tcp_sendrecv_all_ports(catscoin_t)
+corenet_tcp_bind_generic_node(catscoin_t)
+
+gen_require(`
+    type catscoin_port_t;
+')
+allow catscoin_t catscoin_port_t:tcp_socket name_bind;
+
+gen_require(`
+    type catscoin_port_t;
+')
+allow catscoin_t catscoin_port_t:tcp_socket name_connect;
+
+domain_use_interactive_fds(catscoin_t)
+
+files_read_etc_files(catscoin_t)
+
+miscfiles_read_localization(catscoin_t)
+
+sysnet_dns_name_resolve(catscoin_t)
+
+allow catscoin_t catscoin_exec_t:file execute_no_trans;
+allow catscoin_t self:process setsched;
+corecmd_exec_ls(catscoin_t)
+corenet_tcp_connect_http_port(catscoin_t)
+dev_read_urand(catscoin_t)
+fs_getattr_xattr_fs(catscoin_t)
+kernel_read_system_state(catscoin_t)

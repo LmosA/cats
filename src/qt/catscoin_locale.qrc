@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/catscoin_bg.qm</file>
+        <file alias="ca">locale/catscoin_ca.qm</file>
+        <file alias="cs">locale/catscoin_cs.qm</file>
+        <file alias="da">locale/catscoin_da.qm</file>
+        <file alias="de">locale/catscoin_de.qm</file>
+        <file alias="en">locale/catscoin_en.qm</file>
+        <file alias="en_GB">locale/catscoin_en_GB.qm</file>
+        <file alias="en_US">locale/catscoin_en_US.qm</file>
+        <file alias="eo">locale/catscoin_eo.qm</file>
+        <file alias="es">locale/catscoin_es.qm</file>
+        <file alias="es_ES">locale/catscoin_es_ES.qm</file>
+        <file alias="fi">locale/catscoin_fi.qm</file>
+        <file alias="fr_FR">locale/catscoin_fr_FR.qm</file>
+        <file alias="hi_IN">locale/catscoin_hi_IN.qm</file>
+        <file alias="hr">locale/catscoin_hr.qm</file>
+        <file alias="hr_HR">locale/catscoin_hr_HR.qm</file>
+        <file alias="it">locale/catscoin_it.qm</file>
+        <file alias="ja">locale/catscoin_ja.qm</file>
+        <file alias="ko_KR">locale/catscoin_ko_KR.qm</file>
+        <file alias="lt_LT">locale/catscoin_lt_LT.qm</file>
+        <file alias="nl">locale/catscoin_nl.qm</file>
+        <file alias="pl">locale/catscoin_pl.qm</file>
+        <file alias="pt">locale/catscoin_pt.qm</file>
+        <file alias="pt_BR">locale/catscoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/catscoin_ro_RO.qm</file>
+        <file alias="ru">locale/catscoin_ru.qm</file>
+        <file alias="sk">locale/catscoin_sk.qm</file>
+        <file alias="sv">locale/catscoin_sv.qm</file>
+        <file alias="tr">locale/catscoin_tr.qm</file>
+        <file alias="uk">locale/catscoin_uk.qm</file>
+        <file alias="vi">locale/catscoin_vi.qm</file>
+        <file alias="zh_CN">locale/catscoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/catscoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

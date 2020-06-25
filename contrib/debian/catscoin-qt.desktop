@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=CATSCOIN Core
+Comment=CATSCOIN P2P Cryptocurrency
+Comment[fr]=CATSCOIN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=CATSCOIN, eşten eşe kriptografik sanal para birimi
+Exec=catscoin-qt %u
+Terminal=false
+Type=Application
+Icon=catscoin128
+MimeType=x-scheme-handler/catscoin;
+Categories=Office;Finance;
+StartupWMClass=CATScoin-qt
