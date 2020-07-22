@@ -740,16 +740,16 @@
         <translation>versija</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bitai)</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
-        <translation>Apie CATSCOIN Core</translation>
+        <source>About Cats Coin</source>
+        <translation>Apie Cats Coin</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -795,24 +795,24 @@
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
-        <translation>Sveiki atvykę į CATSCOIN Core</translation>
+        <source>Welcome to Cats Coin.</source>
+        <translation>Sveiki atvykę į Cats Coin</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
-        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur CATSCOIN Core saugos savo duomenis.</translation>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
+        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur Cats Coin saugos savo duomenis.</translation>
     </message>
     <message>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CATSCOIN Core atsisiųs ir saugos CATSCOIN blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Cats Coin atsisiųs ir saugos CATSCOIN blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
         <translation>Naudoti numatytąjį duomenų katalogą</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1145,8 +1145,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1173,8 +1173,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
         <translation>Uždaryti programą</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
-        <translation>CATSCOIN Core piniginė</translation>
+        <source>Cats Coin client</source>
+        <translation>Cats Coin piniginė</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1331,8 +1331,8 @@ Adresas: %4
         <translation>N/A</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     </context>
 <context>
@@ -1886,15 +1886,15 @@ Adresas: %4
         <translation>Forma</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     </context>
 <context>
@@ -2093,8 +2093,8 @@ Adresas: %4
         <translation>Klaida kraunant wallet.dat: Piniginė yra sugadinta</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</source>
-        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės CATSCOIN Core versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cats Coin</source>
+        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės Cats Coin versijos</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -2261,8 +2261,8 @@ Adresas: %4
         <translation>Piniginė %s yra ne duomenų kataloge %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CATSCOIN Core to complete</source>
-        <translation>Piniginę reikia perrašyti: paleiskite CATSCOIN Core iš naujo</translation>
+        <source>Wallet needed to be rewritten: restart Cats Coin to complete</source>
+        <translation>Piniginę reikia perrašyti: paleiskite Cats Coin iš naujo</translation>
     </message>
     <message>
         <source>Wallet options:</source>

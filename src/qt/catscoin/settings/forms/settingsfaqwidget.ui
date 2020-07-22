@@ -418,7 +418,7 @@
                 <widget class="QLabel" name="labelWebLink">
                  <property name="text">
                   <string>
-                    You can read more here &lt;a style='color: #6b3dca' href='http://catscoin.org'&gt;
+                    You can read more here &lt;a style='color: #f13845' href='http://catscoin.org'&gt;
                     http://catscoin.org.
                   </string>
                  </property>
@@ -832,7 +832,7 @@
                            zCATS is an optional privacy-centric method of coin mixing on the
                            CATSCOIN blockchain. Basically all your transactions cannot be tracked
                            on to any block explorer. You can read more about the technicals in the
-                           &lt;a style='color: #6b3dca' href='https://catscoin.org/zcats/'&gt;
+                           &lt;a style='color: #f13845' href='https://catscoin.org/zcats/'&gt;
                            &quot;CATSCOIN Zerocoin (zCATS) Technical Paper&quot;&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </string>
@@ -1033,7 +1033,7 @@
                            marks and restart your wallet to disable automint.&lt;/p&gt;
                            &lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;
                            You can read more about zCATS in the
-                           &lt;a style='color: #6b3dca' href='https://catscoin.org/zcats/'&gt; &quot;CATSCOIN Zerocoin (zCATS) Technical Paper&quot;&lt;/a&gt;.
+                           &lt;a style='color: #f13845' href='https://catscoin.org/zcats/'&gt; &quot;CATSCOIN Zerocoin (zCATS) Technical Paper&quot;&lt;/a&gt;.
                            If you would like to keep and stake your zCATS, please read the &quot;How do I stake&quot;
                            section of the FAQ below.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
@@ -1347,9 +1347,9 @@
                          <string>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;
                            We have support channels in most of our official chat groups, for support please reach out to us via
-                           &lt;a style='color: #6b3dca' href='https://discord.catscoin.org'&gt;
+                           &lt;a style='color: #f13845' href='https://discord.gg/QDMkgW3'&gt;
                            Discord&lt;/a&gt; or at
-                           &lt;a style='color: #6b3dca' href='mailto://info@catscoin.org'&gt;
+                           &lt;a style='color: #f13845' href='mailto://info@catscoin.org'&gt;
                            info@catscoin.org.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </string>
@@ -1444,7 +1444,7 @@
                         <property name="text">
                          <string>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;
-                           A masternode is a computer running a full node CATSCOIN core wallet with a
+                           A masternode is a computer running a full node Cats Coin wallet with a
                            requirement of current secured collateral to provide extra services
                            to the network and in return, receive a portion of the block reward
                            regularly.  These services include:

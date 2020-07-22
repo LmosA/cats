@@ -1,7 +1,7 @@
 Translation Strings Policy
 ===========================
 
-This document provides guidelines for internationalization of the CATSCOIN Core software.
+This document provides guidelines for internationalization of the Cats Coin software.
 
 How to translate?
 ------------------

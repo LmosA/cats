@@ -724,7 +724,7 @@
         <translation>versio</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN kerno</translation>
     </message>
     <message>
@@ -732,7 +732,7 @@
         <translation>(%1-bajto)</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
+        <source>About Cats Coin</source>
         <translation>Pri CATSCOIN Kerno</translation>
     </message>
     <message>
@@ -775,15 +775,15 @@
         <translation>Bonvenon</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
+        <source>Welcome to Cats Coin.</source>
         <translation>Bonvenon al la CATSCOIN Kerno.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
         <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie CATSCOIN kernk storigis sian datumojn. </translation>
     </message>
     <message>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>CATSCOIN kerno elŝutos kaj konservi kopion de la CATSCOIN blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
     </message>
     <message>
@@ -791,7 +791,7 @@
         <translation>Uzi defaŭltan dosierujon</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN kerno</translation>
     </message>
     <message>
@@ -1029,7 +1029,7 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN kerno</translation>
     </message>
     <message>
@@ -1057,7 +1057,7 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
         <translation>Eliri</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
+        <source>Cats Coin client</source>
         <translation>CATSCOIN Kerno kliento</translation>
     </message>
     <message>
@@ -1151,7 +1151,7 @@ Adreso: %4
         <translation>NEKONATA</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN kerno</translation>
     </message>
     </context>
@@ -1632,7 +1632,7 @@ Adreso: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
+        <source>Cats Coin is shutting down...</source>
         <translation>CATSCOIN kerno fermanta...</translation>
     </message>
     </context>
@@ -1650,14 +1650,14 @@ Adreso: %4
         <translation>Formo</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN kerno</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN kerno</translation>
     </message>
     <message>
@@ -1669,7 +1669,7 @@ Adreso: %4
         <translation>La Dash kerno programistoj</translation>
     </message>
     <message>
-        <source>The CATSCOIN Core developers</source>
+        <source>The Cats Coin developers</source>
         <translation>La CATSCOIN kerno programistoj</translation>
     </message>
     </context>

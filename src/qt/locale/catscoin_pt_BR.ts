@@ -1217,16 +1217,16 @@ Ele será iniciado automaticamente assim que a carteira tiver confirmações suf
         <translation>versão</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
-        <translation>Sobre o CATSCOIN Core</translation>
+        <source>About Cats Coin</source>
+        <translation>Sobre o Cats Coin</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1276,16 +1276,16 @@ Ele será iniciado automaticamente assim que a carteira tiver confirmações suf
         <translation>Bem-vindo</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
-        <translation>Bem-vindo ao CATSCOIN Core.</translation>
+        <source>Welcome to Cats Coin.</source>
+        <translation>Bem-vindo ao Cats Coin.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
-        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde CATSCOIN Core vai armazenar os seus dados.</translation>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
+        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde Cats Coin vai armazenar os seus dados.</translation>
     </message>
     <message>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CATSCOIN Core vai baixar e armazenar uma cópia da blockchain CATSCOIN. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Cats Coin vai baixar e armazenar uma cópia da blockchain CATSCOIN. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1304,8 +1304,8 @@ Ele será iniciado automaticamente assim que a carteira tiver confirmações suf
         <translation>Ok</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1970,8 +1970,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1998,7 +1998,7 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
         <translation>Sair da aplicação</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
+        <source>Cats Coin client</source>
         <translation>Cliente Core CATSCOIN</translation>
     </message>
     <message>
@@ -2167,8 +2167,8 @@ Endereço: %4
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     </context>
 <context>
@@ -3064,8 +3064,8 @@ Endereço: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
-        <translation>CATSCOIN Core está desligando...</translation>
+        <source>Cats Coin is shutting down...</source>
+        <translation>Cats Coin está desligando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3086,15 +3086,15 @@ Endereço: %4
         <translation>Formulário</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3109,8 +3109,8 @@ Endereço: %4
         <translation>Os desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>The CATSCOIN Core developers</source>
-        <translation>Os desenvolvedores do CATSCOIN Core</translation>
+        <source>The Cats Coin developers</source>
+        <translation>Os desenvolvedores do Cats Coin</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3629,7 +3629,7 @@ Endereço: %4
         <translation>Aviso: -paytxfee está definido como muito alto! Está e a taxa de transação que você irá pagar se enviar uma transação.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
         <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core CATSCOIN não vai funcionar corretamente.</translation>
     </message>
     <message>
@@ -3697,8 +3697,8 @@ Endereço: %4
         <translation>Todos os direitos reservados (C) 2014-%i aos Desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CATSCOIN Core Developers</source>
-        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do CATSCOIN Core</translation>
+        <source>Copyright (C) 2015-%i The Cats Coin Developers</source>
+        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do Cats Coin</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3749,8 +3749,8 @@ Endereço: %4
         <translation>Erro no carregamento da wallet.dat: Carteira corrompida</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</source>
-        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da CATSCOIN Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cats Coin</source>
+        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da Cats Coin</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4111,8 +4111,8 @@ Endereço: %4
         <translation>A carteira %s reside fora do diretório de dados %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CATSCOIN Core to complete</source>
-        <translation>A carteira precisa ser reescrita: reinicia o CATSCOIN Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart Cats Coin to complete</source>
+        <translation>A carteira precisa ser reescrita: reinicia o Cats Coin para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

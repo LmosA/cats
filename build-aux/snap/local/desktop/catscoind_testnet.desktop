@@ -2,7 +2,7 @@
 
 [Desktop Entry]
 Encoding=UTF-8
-Name=CATSCOIN Core Daemon SNAP
+Name=Cats Coin Daemon SNAP
 Comment=testnet
 GenericName=CATSCOIN Digital Currency Daemon Client testnet network
 Exec=catscoin-core.daemon-testnet %u

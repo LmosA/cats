@@ -752,16 +752,16 @@
         <translation>verzija</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
-        <translation>O CATSCOIN Core</translation>
+        <source>About Cats Coin</source>
+        <translation>O Cats Coin</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -807,24 +807,24 @@
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
-        <translation>Dobrodošli u CATSCOIN Core.</translation>
+        <source>Welcome to Cats Coin.</source>
+        <translation>Dobrodošli u Cats Coin.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
-        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će CATSCOIN Core pohraniti svoje podatke.</translation>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
+        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će Cats Coin pohraniti svoje podatke.</translation>
     </message>
     <message>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CATSCOIN Core preuzima i pohranjuje kopiju CATSCOIN blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Cats Coin preuzima i pohranjuje kopiju CATSCOIN blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
         <translation>Upotrijebite zadani direktorij podataka</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1258,8 +1258,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1286,7 +1286,7 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
         <translation>Napusti aplikaciju</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
+        <source>Cats Coin client</source>
         <translation>CATSIX Core Klijent</translation>
     </message>
     <message>
@@ -1500,8 +1500,8 @@ Adresa: %4
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     </context>
 <context>
@@ -2433,8 +2433,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
-        <translation>CATSCOIN Core se zatvara ...</translation>
+        <source>Cats Coin is shutting down...</source>
+        <translation>Cats Coin se zatvara ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2455,15 +2455,15 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Obrazac</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2478,8 +2478,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dash Core programeri</translation>
     </message>
     <message>
-        <source>The CATSCOIN Core developers</source>
-        <translation>CATSCOIN Core programeri</translation>
+        <source>The Cats Coin developers</source>
+        <translation>Cats Coin programeri</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2966,8 +2966,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Izračunata kontrolna točka akumulatora nije ono što se bilježi indeksom blokova</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CATSCOIN Core is probably already running.</source>
-        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. CATSCOIN Core vjerojatno već radi.</translation>
+        <source>Cannot obtain a lock on data directory %s. Cats Coin is probably already running.</source>
+        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. Cats Coin vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -3138,8 +3138,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Ovaj proizvod uključuje softver razvijen od strane OpenSSL projekta za uporabu u OpenSSL Toolkitu i kriptografskom softveru kojeg je napisao Eric Young i UPnP softver koji je napisao Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CATSCOIN Core is probably already running.</source>
-        <translation>Nije moguće vezati se na %s na ovom računalu. CATSCOIN Core vjerojatno već radi.</translation>
+        <source>Unable to bind to %s on this computer. Cats Coin is probably already running.</source>
+        <translation>Nije moguće vezati se na %s na ovom računalu. Cats Coin vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -3166,8 +3166,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Upozorenje: -paytxfee je vrlo visoka! To je transakcijska naknada koju ćete platiti ako šaljete transakciju.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
-        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, CATSCOIN Core neće raditi ispravno.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
+        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, Cats Coin neće raditi ispravno.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -3294,8 +3294,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Autorska prava (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CATSCOIN Core Developers</source>
-        <translation>Autorska prava (C) 2015-%i The CATSCOIN Core Developers</translation>
+        <source>Copyright (C) 2015-%i The Cats Coin Developers</source>
+        <translation>Autorska prava (C) 2015-%i The Cats Coin Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3375,7 +3375,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Pogreška pri učitavanju wallet.dat: novčanik oštećen</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cats Coin</source>
         <translation>Pogreška prilikom učitavanja wallet.dat: Novčanik zahtijeva noviju verziju CATSCOIN jezgre</translation>
     </message>
     <message>
@@ -3463,8 +3463,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Informacije</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CATSCOIN Core is shutting down.</source>
-        <translation>Provjera ispravnosti inicijalizacije nije uspjela. CATSCOIN Core se zatvara.</translation>
+        <source>Initialization sanity check failed. Cats Coin is shutting down.</source>
+        <translation>Provjera ispravnosti inicijalizacije nije uspjela. Cats Coin se zatvara.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -4126,8 +4126,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Novčanik %s nalazi se izvan direktorija podataka %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CATSCOIN Core to complete</source>
-        <translation>Potrebno je prepisati novčanik: ponovo pokrenite CATSCOIN Core</translation>
+        <source>Wallet needed to be rewritten: restart Cats Coin to complete</source>
+        <translation>Potrebno je prepisati novčanik: ponovo pokrenite Cats Coin</translation>
     </message>
     <message>
         <source>Wallet options:</source>

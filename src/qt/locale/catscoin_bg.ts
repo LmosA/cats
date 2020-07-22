@@ -756,7 +756,7 @@
         <translation>версия</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN Ядро</translation>
     </message>
     <message>
@@ -764,7 +764,7 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
+        <source>About Cats Coin</source>
         <translation>Относно CATSCOIN Ядрото</translation>
     </message>
     <message>
@@ -811,15 +811,15 @@
         <translation>Привет</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
+        <source>Welcome to Cats Coin.</source>
         <translation>Добре Дошли в CATSCOIN Ядрото</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
         <translation>Тъй като това е първия път, в който стартирате програмата, имате възможността да изберете къде CATSCOIN Ядрото ще съхранява своите данни.</translation>
     </message>
     <message>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>CATSCOIN Ядрото ще изтегли и запише копие на целия CATSCOIN блокчейн. Поне %1 гигабайта ще бъдат съхранявани в тази папка, като тенденцията е файла да расте. Портфейла също ще бъде запазен в тази папка.</translation>
     </message>
     <message>
@@ -827,7 +827,7 @@
         <translation>Използвай папката за данни, по подразбиране</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN Ядро</translation>
     </message>
     <message>
@@ -1261,7 +1261,7 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN Ядро</translation>
     </message>
     <message>
@@ -1289,7 +1289,7 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
         <translation>Затоври приложението</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
+        <source>Cats Coin client</source>
         <translation>Клиент CATSCOIN Ядро</translation>
     </message>
     <message>
@@ -1503,7 +1503,7 @@ Address: %4
         <translation>%1 милисек.</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN Ядро</translation>
     </message>
     </context>
@@ -2436,7 +2436,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
+        <source>Cats Coin is shutting down...</source>
         <translation>Изключване на CATSCOIN Ядрото...</translation>
     </message>
     <message>
@@ -2458,14 +2458,14 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>От</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN Ядро</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN Ядро</translation>
     </message>
     <message>
@@ -2481,8 +2481,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dash Core разработчици</translation>
     </message>
     <message>
-        <source>The CATSCOIN Core developers</source>
-        <translation>CATSCOIN Core разработчици</translation>
+        <source>The Cats Coin developers</source>
+        <translation>Cats Coin разработчици</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2969,7 +2969,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Изчисления чекпойнт на акумулатора не е същия като записания в блок индекса.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CATSCOIN Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Cats Coin is probably already running.</source>
         <translation>Не може да заключи папката с данни %s. CATSCOIN Портфейла вероятно вече е стартиран.</translation>
     </message>
     <message>
@@ -3141,7 +3141,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Този продукт включва софтуер разработен от OpenSSL Project &lt;https://www.openssl.org/&gt; и крипто софтуер написан от Ерик Юнг и UPnP софтуер от Томас Бернард.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CATSCOIN Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Cats Coin is probably already running.</source>
         <translation>Не може да се прикачи към %s на този компютър. CATSCOIN Портфейла вероятно вече е стартиран.</translation>
     </message>
     <message>
@@ -3169,7 +3169,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Внимание: -paytxfee е зададена твърде голяма! Това е преводната такса, която ще платите ако изпратите този превод.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
         <translation>Внимание: Проверете дали датата и часа на компютъра са верни! Ако Вашият часовник греши, CATSCOIN Портфейла няма да работи правилно.</translation>
     </message>
     <message>
@@ -3297,8 +3297,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Всички права запазени (c) 2014-%i Dash Core разработчици</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CATSCOIN Core Developers</source>
-        <translation>Всички права запазени (c) 2015-%i CATSCOIN Core разработчици</translation>
+        <source>Copyright (C) 2015-%i The Cats Coin Developers</source>
+        <translation>Всички права запазени (c) 2015-%i Cats Coin разработчици</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3377,7 +3377,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Грешка в зареждането на wallet.dat: Портфейла е повреден</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cats Coin</source>
         <translation>Грешка в зареждането на wallet.dat: Портфейла изисква по-нова версия</translation>
     </message>
     <message>
@@ -3461,7 +3461,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Информация</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CATSCOIN Core is shutting down.</source>
+        <source>Initialization sanity check failed. Cats Coin is shutting down.</source>
         <translation>Стартирането на проверка на здравословното състояние на портфейла се провали. Изключваме Портфейла.</translation>
     </message>
     <message>
@@ -4125,7 +4125,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Портфейла %s е извън папката с данни %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CATSCOIN Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Cats Coin to complete</source>
         <translation>Портфейла трябва да се пренапише: рестартирайте програмата за завършване на процеса</translation>
     </message>
     <message>

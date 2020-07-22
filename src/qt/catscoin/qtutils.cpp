@@ -163,7 +163,7 @@ void updateStyle(QWidget* widget){
 QColor getRowColor(bool isLightTheme, bool isHovered, bool isSelected){
     if(isLightTheme){
         if (isSelected) {
-            return QColor("#256b3dca");
+            return QColor("#25F13845");
         }else if(isHovered){
             return QColor("#25bababa");
         } else{
@@ -171,11 +171,11 @@ QColor getRowColor(bool isLightTheme, bool isHovered, bool isSelected){
         }
     }else{
         if (isSelected) {
-            return QColor("#256b3dca");
+            return QColor("#25F13845");
         }else if(isHovered){
             return QColor("#25bababa");
         } else{
-            return QColor("#0b121f");
+            return QColor("#140A0B");
         }
     }
 }

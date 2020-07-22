@@ -50,7 +50,7 @@ CATSCOINGUI::CATSCOINGUI(const NetworkStyle* networkStyle, QWidget* parent) :
     enableWallet = false;
 #endif // ENABLE_WALLET
 
-    QString windowTitle = tr("CATSCOIN Core") + " - ";
+    QString windowTitle = tr("Cats Coin") + " - ";
     windowTitle += ((enableWallet) ? tr("Wallet") : tr("Node"));
     windowTitle += " " + networkStyle->getTitleAddText();
     setWindowTitle(windowTitle);
@@ -201,7 +201,7 @@ void CATSCOINGUI::connectActions() {
 void CATSCOINGUI::createTrayIcon(const NetworkStyle* networkStyle) {
 #ifndef Q_OS_MAC
     trayIcon = new QSystemTrayIcon(this);
-    QString toolTip = tr("CATSCOIN Core client") + " " + networkStyle->getTitleAddText();
+    QString toolTip = tr("Cats Coin client") + " " + networkStyle->getTitleAddText();
     trayIcon->setToolTip(toolTip);
     trayIcon->setIcon(networkStyle->getAppIcon());
     trayIcon->hide();
@@ -344,7 +344,7 @@ void CATSCOINGUI::messageInfo(const QString& text){
 
 
 void CATSCOINGUI::message(const QString& title, const QString& message, unsigned int style, bool* ret) {
-    QString strTitle =  tr("CATSCOIN Core"); // default title
+    QString strTitle =  tr("Cats Coin"); // default title
     // Default to information icon
     int nNotifyIcon = Notificator::Information;
 
@@ -412,7 +412,7 @@ bool CATSCOINGUI::openStandardDialog(QString title, QString body, QString okBtn,
     } else {
         dialog = new DefaultDialog();
         dialog->setText(title, body, okBtn);
-        dialog->setWindowTitle(tr("CATSCOIN Core"));
+        dialog->setWindowTitle(tr("Cats Coin"));
         dialog->adjustSize();
         dialog->raise();
         dialog->exec();

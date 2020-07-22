@@ -696,12 +696,12 @@
         <translation>verze</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
-        <translation>O CATSCOIN Core</translation>
+        <source>About Cats Coin</source>
+        <translation>O Cats Coin</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -735,24 +735,24 @@
         <translation>Vítejte</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
-        <translation>Vítejte v CATSCOIN Core.</translation>
+        <source>Welcome to Cats Coin.</source>
+        <translation>Vítejte v Cats Coin.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
-        <translation>Při prvním spuštění programu si můžete vybrat, kam bude CATSCOIN Core ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
+        <translation>Při prvním spuštění programu si můžete vybrat, kam bude Cats Coin ukládat svá data.</translation>
     </message>
     <message>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CATSCOIN Core stáhne a uloží kopii CATSCOIN blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Cats Coin stáhne a uloží kopii CATSCOIN blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
         <translation>Použít defaultně nastavenou složku pro data</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -987,8 +987,8 @@
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1015,8 +1015,8 @@
         <translation>Zavřít aplikaci</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
-        <translation>CATSCOIN Core klient</translation>
+        <source>Cats Coin client</source>
+        <translation>Cats Coin klient</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1117,8 +1117,8 @@ Adresa: %4
         <translation>N/A</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     </context>
 <context>
@@ -1672,15 +1672,15 @@ Adresa: %4
         <translation>Od</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     </context>
 <context>

@@ -987,8 +987,8 @@
         <translation>carteira %s reside fora do diretório %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CATSCOIN Core to complete</source>
-        <translation>Carteira precisa ser reescrita: reinicie o CATSCOIN Core para completar.</translation>
+        <source>Wallet needed to be rewritten: restart Cats Coin to complete</source>
+        <translation>Carteira precisa ser reescrita: reinicie o Cats Coin para completar.</translation>
     </message>
     <message>
         <source>Wallet options:</source>

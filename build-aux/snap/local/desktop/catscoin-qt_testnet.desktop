@@ -2,8 +2,8 @@
 
 [Desktop Entry]
 Encoding=UTF-8
-Name=CATSCOIN Core
-Comment=CATSCOIN Core QT test network
+Name=Cats Coin
+Comment=Cats Coin QT test network
 GenericName=CATSCOIN Digital Currency QT client testnet network
 Exec=catscoin-core.qt-testnet %u
 Terminal=false

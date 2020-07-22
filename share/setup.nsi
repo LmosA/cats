@@ -1,11 +1,11 @@
-Name "CATSCOIN Core (-bit)"
+Name "Cats Coin (-bit)"
 
 RequestExecutionLevel highest
 SetCompressor /SOLID lzma
 
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
-!define COMPANY "CATSCOIN Core project"
+!define COMPANY "Cats Coin project"
 !define URL https://www.catscoin.org
 
 # MUI Symbol Definitions
@@ -18,7 +18,7 @@ SetCompressor /SOLID lzma
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
 !define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
-!define MUI_STARTMENUPAGE_DEFAULTFOLDER "CATSCOIN Core"
+!define MUI_STARTMENUPAGE_DEFAULTFOLDER "Cats Coin"
 !define MUI_FINISHPAGE_RUN $INSTDIR\catscoin-qt
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
 !define MUI_UNWELCOMEFINISHPAGE_BITMAP "/root/catswin/share/pixmaps/nsis-wizard.bmp"
@@ -58,7 +58,7 @@ XPStyle on
 BrandingText " "
 ShowInstDetails show
 VIProductVersion 1.0.0.0
-VIAddVersionKey ProductName "CATSCOIN Core"
+VIAddVersionKey ProductName "Cats Coin"
 VIAddVersionKey ProductVersion "1.0.0"
 VIAddVersionKey CompanyName "${COMPANY}"
 VIAddVersionKey CompanyWebsite "${URL}"

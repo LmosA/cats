@@ -1,4 +1,4 @@
-CATSCOIN Core
+Cats Coin
 =====================
 
 Intro
@@ -13,7 +13,7 @@ Setup
 -----
 Unpack the files into a directory and run catscoin-qt.exe.
 
-CATSCOIN Core is the original CATSCOIN client and it builds the backbone of the network.
+Cats Coin is the original CATSCOIN client and it builds the backbone of the network.
 However, it downloads and stores the entire history of CATSCOIN transactions;
 depending on the speed of your computer and network connection, the synchronization
 process can take anywhere from a few hours to a day or more.

@@ -1,4 +1,4 @@
-CATSCOIN Core integration/staging repository
+Cats Coin integration/staging repository
 =====================================
 
 

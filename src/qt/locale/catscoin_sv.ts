@@ -1228,15 +1228,15 @@ Den startar automatiskt så snart plånboken har tillräckligt många bekräftel
         <translation>version</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
+        <source>About Cats Coin</source>
         <translation>Om CATSCOIN Kärna</translation>
     </message>
     <message>
@@ -1287,15 +1287,15 @@ Den startar automatiskt så snart plånboken har tillräckligt många bekräftel
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
-        <translation>Välkommen till CATSCOIN Core.</translation>
+        <source>Welcome to Cats Coin.</source>
+        <translation>Välkommen till Cats Coin.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
-        <translation>Eftersom detta är första gången programmet körs så kan du välja var CATSCOIN Core ska spara sin data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
+        <translation>Eftersom detta är första gången programmet körs så kan du välja var Cats Coin ska spara sin data.</translation>
     </message>
     <message>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>CATSCOIN Kärnan kommer ladda ner och spara en kopia av CATSCOIN block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
     </message>
     <message>
@@ -1315,8 +1315,8 @@ Den startar automatiskt så snart plånboken har tillräckligt många bekräftel
         <translation>ok</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2112,8 +2112,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -2140,7 +2140,7 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
         <translation>Avsluta applikationen</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
+        <source>Cats Coin client</source>
         <translation>CATSCOIN kärn klient</translation>
     </message>
     <message>
@@ -2504,8 +2504,8 @@ transaktionshistorik, vilket gör transaktioner ospårbara</translation>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -2516,8 +2516,8 @@ transaktionshistorik, vilket gör transaktioner ospårbara</translation>
         <translation>Fel vid inläsning av masternodens konfigurationsfil: %1</translation>
     </message>
     <message>
-        <source>CATSCOIN Core didn't yet exit safely...</source>
-        <translation>CATSCOIN Core avslutades ännu inte säkert...</translation>
+        <source>Cats Coin didn't yet exit safely...</source>
+        <translation>Cats Coin avslutades ännu inte säkert...</translation>
     </message>
 </context>
 <context>
@@ -3683,8 +3683,8 @@ Var vänlig kontrollera adressen och försök igen.</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
-        <translation>CATSCOIN Core stängs ner...</translation>
+        <source>Cats Coin is shutting down...</source>
+        <translation>Cats Coin stängs ner...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3705,15 +3705,15 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Formulär</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3728,8 +3728,8 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Dash Core utvecklarna</translation>
     </message>
     <message>
-        <source>The CATSCOIN Core developers</source>
-        <translation>CATSCOIN Core utvecklarna</translation>
+        <source>The Cats Coin developers</source>
+        <translation>Cats Coin utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4276,7 +4276,7 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Beräknade ackumulator kontrollstation är inte vad som sparats av block index</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CATSCOIN Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Cats Coin is probably already running.</source>
         <translation>Kan ej låsa in på data katalog %s. CATSCOIN Kärna körs förmodligen redan.</translation>
     </message>
     <message>
@@ -4452,8 +4452,8 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Totala längden av nätverks verisionens sträng (%i) överskrider maximala längd (%i). Minska mängden eller storleken av uakommentarer.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CATSCOIN Core is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. CATSCOIN Core körs förmodligen redan.</translation>
+        <source>Unable to bind to %s on this computer. Cats Coin is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. Cats Coin körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -4480,8 +4480,8 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Varning: -maxtxfee är sätt väldigt högt! Detta är transaktionsavgiften du kommer betala om du skickar en transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
-        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer CATSCOIN Core inte att fungera korrekt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
+        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer Cats Coin inte att fungera korrekt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4612,8 +4612,8 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CATSCOIN Core Developers</source>
-        <translation>Copyright (C) 2015-%i The CATSCOIN Core Developers</translation>
+        <source>Copyright (C) 2015-%i The Cats Coin Developers</source>
+        <translation>Copyright (C) 2015-%i The Cats Coin Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4692,7 +4692,7 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Fel vid laddning av wallet.dat: Plånbok korrupterad</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cats Coin</source>
         <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare CATSCOIN Kärna version</translation>
     </message>
     <message>
@@ -4784,7 +4784,7 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CATSCOIN Core is shutting down.</source>
+        <source>Initialization sanity check failed. Cats Coin is shutting down.</source>
         <translation>Initierings renlighetscheck misslyckades. CATSCOIN Kärna stängs ner.</translation>
     </message>
     <message>
@@ -5460,7 +5460,7 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Plånbok %s finns utanför data katalog %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CATSCOIN Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Cats Coin to complete</source>
         <translation>Plånbok behöver skrivas om: starta om CATSCOIN Kärna för att göra klart</translation>
     </message>
     <message>

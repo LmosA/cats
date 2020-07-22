@@ -416,15 +416,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -487,8 +487,8 @@
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -515,8 +515,8 @@
         <translation>Ukončiť aplikáciu</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
-        <translation>CATSCOIN Core klient</translation>
+        <source>Cats Coin client</source>
+        <translation>Cats Coin klient</translation>
     </message>
     <message>
         <source>Error</source>
@@ -581,8 +581,8 @@ Adresa: %4
         <translation>Suma</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     </context>
 <context>
@@ -856,15 +856,15 @@ Adresa: %4
 <context>
     <name>Splash</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     </context>
 <context>

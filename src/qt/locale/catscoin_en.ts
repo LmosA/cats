@@ -1828,7 +1828,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+0"/>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1839,7 +1839,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+6"/>
-        <source>About CATSCOIN Core</source>
+        <source>About Cats Coin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1902,17 +1902,17 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+90"/>
-        <source>Welcome to CATSCOIN Core.</source>
+        <source>Welcome to Cats Coin.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+35"/>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1937,7 +1937,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location filename="../intro.cpp" line="+101"/>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2898,7 +2898,7 @@ https://www.transifex.com/CATScoin/CATScoin-translations</source>
         <location filename="../catscoin/catscoingui.cpp" line="+53"/>
         <location line="+294"/>
         <location line="+68"/>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2933,7 +2933,7 @@ https://www.transifex.com/CATScoin/CATScoin-translations</source>
     </message>
     <message>
         <location line="+38"/>
-        <source>CATSCOIN Core client</source>
+        <source>Cats Coin client</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3470,7 +3470,7 @@ transaction history, making transactions untraceable </source>
         <location line="+7"/>
         <location line="+13"/>
         <location line="+19"/>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3495,7 +3495,7 @@ transaction history, making transactions untraceable </source>
     </message>
     <message>
         <location line="+61"/>
-        <source>CATSCOIN Core didn&apos;t yet exit safely...</source>
+        <source>Cats Coin didn&apos;t yet exit safely...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5307,7 +5307,7 @@ Verify that you have installed a predetermined text editor.</source>
                            zCATS is an optional privacy-centric method of coin mixing on the
                            CATSCOIN blockchain. Basically all your transactions cannot be tracked
                            on to any block explorer. You can read more about the technicals in the
-                           &lt;a style=&apos;color: #6b3dca&apos; href=&apos;https://catscoin.org/zcats/&apos;&gt;
+                           &lt;a style=&apos;color: #f13845&apos; href=&apos;https://catscoin.org/zcats/&apos;&gt;
                            &quot;CATSCOIN Zerocoin (zCATS) Technical Paper&quot;&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </source>
@@ -5358,7 +5358,7 @@ Verify that you have installed a predetermined text editor.</source>
                            marks and restart your wallet to disable automint.&lt;/p&gt;
                            &lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;
                            You can read more about zCATS in the
-                           &lt;a style=&apos;color: #6b3dca&apos; href=&apos;https://catscoin.org/zcats/&apos;&gt; &quot;CATSCOIN Zerocoin (zCATS) Technical Paper&quot;&lt;/a&gt;.
+                           &lt;a style=&apos;color: #f13845&apos; href=&apos;https://catscoin.org/zcats/&apos;&gt; &quot;CATSCOIN Zerocoin (zCATS) Technical Paper&quot;&lt;/a&gt;.
                            If you would like to keep and stake your zCATS, please read the &quot;How do I stake&quot;
                            section of the FAQ below.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
@@ -5444,10 +5444,10 @@ Verify that you have installed a predetermined text editor.</source>
         <source>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;
                            We have support channels in most of our official chat groups, for example
-                           &lt;a style=&apos;color: #6b3dca&apos; href=&apos;https://discord.catscoin.org&apos;&gt;
+                           &lt;a style=&apos;color: #f13845&apos; href=&apos;https://discord.catscoin.org&apos;&gt;
                            #support in our Discord&lt;/a&gt;.
                            If you prefer to submit a ticket, One can be
-                           &lt;a style=&apos;color: #6b3dca&apos; href=&apos;https://CATSCOIN.freshdesk.com&apos;&gt;
+                           &lt;a style=&apos;color: #f13845&apos; href=&apos;https://CATSCOIN.freshdesk.com&apos;&gt;
                            our Freshdesk support site&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </source>
@@ -5467,7 +5467,7 @@ Verify that you have installed a predetermined text editor.</source>
         <location line="+26"/>
         <source>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;
-                           A masternode is a computer running a full node CATSCOIN core wallet with a
+                           A masternode is a computer running a full node Cats Coin wallet with a
                            requirement of 10,000 CATS secured collateral to provide extra services
                            to the network and in return, receive a portion of the block reward
                            regularly.  These services include:
@@ -6548,7 +6548,7 @@ Are you sure?
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+70"/>
-        <source>CATSCOIN Core is shutting down...</source>
+        <source>Cats Coin is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6584,7 +6584,7 @@ Are you sure?
     </message>
     <message>
         <location filename="../catscoin/splash.cpp" line="+29"/>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6592,7 +6592,7 @@ Are you sure?
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+36"/>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6612,7 +6612,7 @@ Are you sure?
     </message>
     <message>
         <location line="+1"/>
-        <source>The CATSCOIN Core developers</source>
+        <source>The Cats Coin developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7567,7 +7567,7 @@ Are you sure?
     <message>
         <location line="+89"/>
         <source>Welcome to
-CATSCOIN Core Wallet</source>
+Cats Coin Wallet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7688,7 +7688,7 @@ CATSCOIN Core Wallet</source>
     </message>
     <message>
         <location line="+2"/>
-        <source>Cannot obtain a lock on data directory %s. CATSCOIN Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Cats Coin is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7938,7 +7938,7 @@ CATSCOIN Core Wallet</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>Unable to bind to %s on this computer. CATSCOIN Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Cats Coin is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7973,12 +7973,12 @@ CATSCOIN Core Wallet</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Peers are being disconnected due time differences. Please check that your computer&apos;s date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
+        <source>Warning: Peers are being disconnected due time differences. Please check that your computer&apos;s date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8153,7 +8153,7 @@ CATSCOIN Core Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2015-%i The CATSCOIN Core Developers</source>
+        <source>Copyright (C) 2015-%i The Cats Coin Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8263,7 +8263,7 @@ CATSCOIN Core Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cats Coin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8378,7 +8378,7 @@ CATSCOIN Core Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. CATSCOIN Core is shutting down.</source>
+        <source>Initialization sanity check failed. Cats Coin is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9275,7 +9275,7 @@ CATSCOIN Core Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart CATSCOIN Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Cats Coin to complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

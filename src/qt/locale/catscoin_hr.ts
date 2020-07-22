@@ -1010,12 +1010,12 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
-        <translation>O CATSCOIN Core-u</translation>
+        <source>About Cats Coin</source>
+        <translation>O Cats Coin-u</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -1033,8 +1033,8 @@
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
-        <translation>Dobrodošli u CATSCOIN Core.</translation>
+        <source>Welcome to Cats Coin.</source>
+        <translation>Dobrodošli u Cats Coin.</translation>
     </message>
     <message>
         <source>CANCEL</source>
@@ -1045,8 +1045,8 @@
         <translation>U redu</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1301,8 +1301,8 @@
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1329,8 +1329,8 @@
         <translation>Napusti aplikaciju</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
-        <translation>CATSCOIN Core klijent</translation>
+        <source>Cats Coin client</source>
+        <translation>Cats Coin klijent</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1427,8 +1427,8 @@
         <translation>N/A</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     </context>
 <context>
@@ -2284,8 +2284,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
-        <translation>CATSCOIN Core se gasi...</translation>
+        <source>Cats Coin is shutting down...</source>
+        <translation>Cats Coin se gasi...</translation>
     </message>
     </context>
 <context>
@@ -2310,15 +2310,15 @@
         <translation>Učitavanje...</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2333,8 +2333,8 @@
         <translation>Dash Core developeri</translation>
     </message>
     <message>
-        <source>The CATSCOIN Core developers</source>
-        <translation>CATSCOIN Core developeri</translation>
+        <source>The Cats Coin developers</source>
+        <translation>Cats Coin developeri</translation>
     </message>
     <message>
         <source>[testnet]</source>

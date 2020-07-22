@@ -1466,16 +1466,16 @@ Si avvierà automaticamente non appena il portafoglio avrà sufficienti conferme
         <translation>versione</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
-        <translation>Informazioni su CATSCOIN Core</translation>
+        <source>About Cats Coin</source>
+        <translation>Informazioni su Cats Coin</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1525,16 +1525,16 @@ Si avvierà automaticamente non appena il portafoglio avrà sufficienti conferme
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
+        <source>Welcome to Cats Coin.</source>
         <translation>Benvenuto in CATSIX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
-        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove CATSCOIN Core salverà i propri dati.</translation>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
+        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove Cats Coin salverà i propri dati.</translation>
     </message>
     <message>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CATSCOIN Core scaricherà e salverà una copia della blockchain CATSCOIN. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Cats Coin scaricherà e salverà una copia della blockchain CATSCOIN. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1553,8 +1553,8 @@ Si avvierà automaticamente non appena il portafoglio avrà sufficienti conferme
         <translation>OK</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2341,8 +2341,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -2369,8 +2369,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
         <translation>Chiude l'applicazione</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin client</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2779,8 +2779,8 @@ cronologia delle transazioni, rendendo le transazioni non rintracciabili</transl
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -2799,8 +2799,8 @@ cronologia delle transazioni, rendendo le transazioni non rintracciabili</transl
         <translation>Errore durante la lettura del file di configurazione del Masternode: %1</translation>
     </message>
     <message>
-        <source>CATSCOIN Core didn't yet exit safely...</source>
-        <translation>CATSCOIN Core non è ancora uscito in modo sicuro...</translation>
+        <source>Cats Coin didn't yet exit safely...</source>
+        <translation>Cats Coin non è ancora uscito in modo sicuro...</translation>
     </message>
 </context>
 <context>
@@ -4244,7 +4244,7 @@ per vedere e spendere i saldi sulla rete.
                            zCATS is an optional privacy-centric method of coin mixing on the
                            CATSCOIN blockchain. Basically all your transactions cannot be tracked
                            on to any block explorer. You can read more about the technicals in the
-                           &lt;a style='color: #6b3dca' href='https://catscoin.org/zcats/'&gt;
+                           &lt;a style='color: #f13845' href='https://catscoin.org/zcats/'&gt;
                            "CATSCOIN Zerocoin (zCATS) Technical Paper"&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </source>
@@ -4253,7 +4253,7 @@ per vedere e spendere i saldi sulla rete.
                            zCATS è un metodo opzionale incentrato sulla privacy per la miscelazione delle valute sulla
 Blockchain CATSCOIN. Essenzialmente, tutte le tue transazioni non potranno essere tracciate
 su un block explorer. Puoi leggere di più sugli aspetti tecnici nel
-                           &lt;a style='color: #6b3dca' href='https://catscoin.org/zcats/'&gt;
+                           &lt;a style='color: #f13845' href='https://catscoin.org/zcats/'&gt;
                            "CATSCOIN Zerocoin (zCATS) Technical Paper"&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </translation>
@@ -4303,7 +4303,7 @@ per diventare idoneo alla spesa.
                            marks and restart your wallet to disable automint.&lt;/p&gt;
                            &lt;/p&gt;&lt;p align="justify"&gt;
                            You can read more about zCATS in the
-                           &lt;a style='color: #6b3dca' href='https://catscoin.org/zcats/'&gt; "CATSCOIN Zerocoin (zCATS) Technical Paper"&lt;/a&gt;.
+                           &lt;a style='color: #f13845' href='https://catscoin.org/zcats/'&gt; "CATSCOIN Zerocoin (zCATS) Technical Paper"&lt;/a&gt;.
                            If you would like to keep and stake your zCATS, please read the "How do I stake"
                            section of the FAQ below.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
@@ -4320,7 +4320,7 @@ il tuo file catscoin.conf e aggiungere&lt;i&gt;enablezeromint=0&lt;/i&gt; senza 
 e far ripartire il portafoglio per disabilitare la forgiatura automatica.&lt;/p&gt;
                            &lt;/p&gt;&lt;p align="justify"&gt;
                            Puoi leggere di più su zCATS nel
-                           &lt;a style='color: #6b3dca' href='https://catscoin.org/zcats/'&gt; "CATSCOIN Zerocoin (zCATS) Technical Paper"&lt;/a&gt;.
+                           &lt;a style='color: #f13845' href='https://catscoin.org/zcats/'&gt; "CATSCOIN Zerocoin (zCATS) Technical Paper"&lt;/a&gt;.
                            Se desideri effettuare lo staking dei tuoi zCATS, leggi "Come faccio ad effettuare lo staking"
 nella sezione delle FAQ di seguito.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
@@ -4430,20 +4430,20 @@ Se desideri più zCATS, dovrai forgiare il saldo nella scheda "Privacy".
         <source>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
                            We have support channels in most of our official chat groups, for example
-                           &lt;a style='color: #6b3dca' href='https://Discord.CATSCOIN.org'&gt;
+                           &lt;a style='color: #f13845' href='https://Discord.CATSCOIN.org'&gt;
                            #support in our Discord&lt;/a&gt;.
                            If you prefer to submit a ticket, One can be
-                           &lt;a style='color: #6b3dca' href='https://CATSCOIN.FreshDesk.com'&gt;
+                           &lt;a style='color: #f13845' href='https://CATSCOIN.FreshDesk.com'&gt;
                            our Freshdesk support site&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </source>
         <translation>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
                            Abbiamo canali di supporto nella maggior parte dei nostri gruppi di chat ufficiali, ad esempio
-                           &lt;a style='color: #6b3dca' href='https://Discord.CATSCOIN.org'&gt;
+                           &lt;a style='color: #f13845' href='https://Discord.CATSCOIN.org'&gt;
                            #support nel nostro Discord&lt;/a&gt;.
                            Se preferisci aprire un ticket, puoi farlo su
-                           &lt;a style='color: #6b3dca' href='https://CATSCOIN.FreshDesk.com'&gt;
+                           &lt;a style='color: #f13845' href='https://CATSCOIN.FreshDesk.com'&gt;
                            il nostro sito di supporto Freshdesk&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </translation>
@@ -4459,7 +4459,7 @@ Se desideri più zCATS, dovrai forgiare il saldo nella scheda "Privacy".
     <message>
         <source>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
-                           A masternode is a computer running a full node CATSCOIN core wallet with a
+                           A masternode is a computer running a full node Cats Coin wallet with a
                            requirement of 10,000 CATS secured collateral to provide extra services
                            to the network and in return, receive a portion of the block reward
                            regularly.  These services include:
@@ -5348,8 +5348,8 @@ Sei sicuro?
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
-        <translation>CATSCOIN Core si sta spegnendo...</translation>
+        <source>Cats Coin is shutting down...</source>
+        <translation>Cats Coin si sta spegnendo...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -5378,15 +5378,15 @@ Sei sicuro?
         <translation>Caricamento...</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -5401,8 +5401,8 @@ Sei sicuro?
         <translation>Gli sviluppatori di Dash Core</translation>
     </message>
     <message>
-        <source>The CATSCOIN Core developers</source>
-        <translation>Gli sviluppatori di CATSCOIN Core</translation>
+        <source>The Cats Coin developers</source>
+        <translation>Gli sviluppatori di Cats Coin</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -6132,9 +6132,9 @@ Sei sicuro?
     </message>
     <message>
         <source>Welcome to
-CATSCOIN Core Wallet</source>
+Cats Coin Wallet</source>
         <translation>Benvenuto in
-Portafoglio CATSCOIN Core.</translation>
+Portafoglio Cats Coin.</translation>
     </message>
     <message>
         <source>CATSCOIN is the world’s most innovative Proof of Stake blockchain based technology. Developed by a team of highly experienced developers and cryptographers.</source>
@@ -6231,8 +6231,8 @@ Portafoglio CATSCOIN Core.</translation>
         <translation>Il punto di controllo dell'accumulatore calcolato non è ciò che viene registrato dall'indice di blocco</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CATSCOIN Core is probably already running.</source>
-        <translation>Impossibile allocare la directory di dati %s. Probabilmente CATSCOIN Core è già in esecuzione.</translation>
+        <source>Cannot obtain a lock on data directory %s. Cats Coin is probably already running.</source>
+        <translation>Impossibile allocare la directory di dati %s. Probabilmente Cats Coin è già in esecuzione.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -6431,8 +6431,8 @@ Portafoglio CATSCOIN Core.</translation>
         <translation>La lunghezza totale della stringa della versione di rete (%i) supera la lunghezza massima (%i). Ridurre il numero o la dimensione degli uacomments.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CATSCOIN Core is probably already running.</source>
-        <translation>Impossibile associare %s su questo computer. Probabilmente CATSCOIN Core è già in esecuzione.</translation>
+        <source>Unable to bind to %s on this computer. Cats Coin is probably already running.</source>
+        <translation>Impossibile associare %s su questo computer. Probabilmente Cats Coin è già in esecuzione.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -6459,12 +6459,12 @@ Portafoglio CATSCOIN Core.</translation>
         <translation>Attenzione: -paytxfee è impostato molto alto! Questa è la commissione di transazione che dovrai pagare se invii una transazione.</translation>
     </message>
     <message>
-        <source>Warning: Peers are being disconnected due time differences. Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
-        <translation>Avvertenza: i peer vengono disconnessi a causa di differenze temporali. Verifica che la data e l'ora del tuo computer siano corrette! Se l'orologio è sbagliato, CATSCOIN Core non funzionerà correttamente.</translation>
+        <source>Warning: Peers are being disconnected due time differences. Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
+        <translation>Avvertenza: i peer vengono disconnessi a causa di differenze temporali. Verifica che la data e l'ora del tuo computer siano corrette! Se l'orologio è sbagliato, Cats Coin non funzionerà correttamente.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
-        <translation>Avvertenza: verificare che la data e l'ora del computer siano corrette! Se l'orologio è sbagliato, CATSCOIN Core non funzionerà correttamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
+        <translation>Avvertenza: verificare che la data e l'ora del computer siano corrette! Se l'orologio è sbagliato, Cats Coin non funzionerà correttamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -6603,8 +6603,8 @@ Portafoglio CATSCOIN Core.</translation>
         <translation>Copyright (C) 2014-%i Gli sviluppatori di Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CATSCOIN Core Developers</source>
-        <translation>Copyright (C) 2015-%i Gli sviluppatori di CATSCOIN Core</translation>
+        <source>Copyright (C) 2015-%i The Cats Coin Developers</source>
+        <translation>Copyright (C) 2015-%i Gli sviluppatori di Cats Coin</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -6691,8 +6691,8 @@ Portafoglio CATSCOIN Core.</translation>
         <translation>Errore durante il caricamento di wallet.dat: portafoglio corrotto </translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</source>
-        <translation>Errore durante il caricamento di wallet.dat: il portafoglio richiede una versione più recente di CATSCOIN Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cats Coin</source>
+        <translation>Errore durante il caricamento di wallet.dat: il portafoglio richiede una versione più recente di Cats Coin</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -6783,8 +6783,8 @@ Portafoglio CATSCOIN Core.</translation>
         <translation>Informazioni</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CATSCOIN Core is shutting down.</source>
-        <translation>Verifica dell'integrità dell'inizializzazione non riuscita. CATSCOIN Core si sta spegnendo.</translation>
+        <source>Initialization sanity check failed. Cats Coin is shutting down.</source>
+        <translation>Verifica dell'integrità dell'inizializzazione non riuscita. Cats Coin si sta spegnendo.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -7503,8 +7503,8 @@ Portafoglio CATSCOIN Core.</translation>
         <translation>Il portafoglio %s risiede al di fuori della directory di dati %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CATSCOIN Core to complete</source>
-        <translation>Il portafoglio doveva essere riscritto: riavviare CATSCOIN Core per completare</translation>
+        <source>Wallet needed to be rewritten: restart Cats Coin to complete</source>
+        <translation>Il portafoglio doveva essere riscritto: riavviare Cats Coin per completare</translation>
     </message>
     <message>
         <source>Wallet options:</source>

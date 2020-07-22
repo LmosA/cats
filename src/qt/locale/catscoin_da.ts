@@ -1117,7 +1117,7 @@ Den vil starte automatisk så snart at pungen har nok bekræftelser på nogen af
         <translation>version</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN kerne</translation>
     </message>
     <message>
@@ -1125,7 +1125,7 @@ Den vil starte automatisk så snart at pungen har nok bekræftelser på nogen af
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
+        <source>About Cats Coin</source>
         <translation>om CATSCOIN kerne</translation>
     </message>
     <message>
@@ -1176,15 +1176,15 @@ Den vil starte automatisk så snart at pungen har nok bekræftelser på nogen af
         <translation>Velkommen</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
+        <source>Welcome to Cats Coin.</source>
         <translation>Velkommen til CATSCOIN kerne</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
         <translation>Da det er første gang programmet startes, kan De vælge hvor CATSCOIN kernen skal lagre sine data</translation>
     </message>
     <message>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>CATSCOIN kernen vil nu hente og gemme en kopi af CATSCOIN blockchain. Der skal være mindst %1GB ledigt på lagermediet, og behovet vil stige efterhånden som tiden går. Selve tegnebogen vil også blive gemt her.</translation>
     </message>
     <message>
@@ -1200,7 +1200,7 @@ Den vil starte automatisk så snart at pungen har nok bekræftelser på nogen af
         <translation>Ok</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN kerne</translation>
     </message>
     <message>
@@ -1666,7 +1666,7 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN kerne</translation>
     </message>
     <message>
@@ -1694,7 +1694,7 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
         <translation>Afslut applikationen</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
+        <source>Cats Coin client</source>
         <translation>CATSCOIN kerneklient</translation>
     </message>
     <message>
@@ -1920,7 +1920,7 @@ Adresse: %4
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN kerne</translation>
     </message>
     </context>
@@ -3018,7 +3018,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
+        <source>Cats Coin is shutting down...</source>
         <translation>CATSCOIN kernen lukker ned</translation>
     </message>
     <message>
@@ -3040,14 +3040,14 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Formular</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN kerne</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN kerne</translation>
     </message>
     <message>
@@ -3063,7 +3063,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>DASH "core" udviklerne</translation>
     </message>
     <message>
-        <source>The CATSCOIN Core developers</source>
+        <source>The Cats Coin developers</source>
         <translation>CATSCOIN "core" udviklerne</translation>
     </message>
     <message>
@@ -3591,8 +3591,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Beregnet akkumulator kontrolpunkt er ikke det, der er registreret af blok indeks</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CATSCOIN Core is probably already running.</source>
-        <translation>Kan ikke låse datamappen %s. CATSCOIN core kører sandsynligvis allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s. Cats Coin is probably already running.</source>
+        <translation>Kan ikke låse datamappen %s. Cats Coin kører sandsynligvis allerede.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -3764,7 +3764,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Dette produkt anvender software udviklet i OpenSSL projektet til brug i OpenSSL værktøjssættet &lt;https://www.openssl.org/&gt; og kryptosoftware skrevet afEric Young og UPnP software skrevet af Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CATSCOIN Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Cats Coin is probably already running.</source>
         <translation>Det var ikke muligt at forbinde %s på denne computer. CATSCOIN kører sandsynligvis allerede.</translation>
     </message>
     <message>
@@ -3792,8 +3792,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Advarsel! -paytxfee er sat meget højt. Det er dette gebyr De kommer til at betale for transaktionen, hvis De gennemfører. </translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
-        <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil CATSCOIN core ikke fungere ordentligt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
+        <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil Cats Coin ikke fungere ordentligt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -3920,8 +3920,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Copyright (C) 2014-%i The Dash Core Developers </translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CATSCOIN Core Developers</source>
-        <translation>Copyright (C) 2015-%i The CATSCOIN Core Developers</translation>
+        <source>Copyright (C) 2015-%i The Cats Coin Developers</source>
+        <translation>Copyright (C) 2015-%i The Cats Coin Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4000,8 +4000,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen er beskadiget</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af CATSCOIN core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cats Coin</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af Cats Coin</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4092,8 +4092,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Info:</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CATSCOIN Core is shutting down.</source>
-        <translation>Initiering af sanitetskontrollen fejlede. CATSCOIN core lukker ned. </translation>
+        <source>Initialization sanity check failed. Cats Coin is shutting down.</source>
+        <translation>Initiering af sanitetskontrollen fejlede. Cats Coin lukker ned. </translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -4756,8 +4756,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Tegnbogen %s befinder sig udenfor datamappen %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CATSCOIN Core to complete</source>
-        <translation>Tegnebogen måtte genskrives. Genstart CATSCOIN core for at gøre færdig</translation>
+        <source>Wallet needed to be rewritten: restart Cats Coin to complete</source>
+        <translation>Tegnebogen måtte genskrives. Genstart Cats Coin for at gøre færdig</translation>
     </message>
     <message>
         <source>Wallet options:</source>

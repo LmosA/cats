@@ -45,7 +45,7 @@ static bool AppInitRawTx(int argc, char* argv[])
 
     if (argc < 2 || mapArgs.count("-?") || mapArgs.count("-help")) {
         // First part of help message is specific to this utility
-        std::string strUsage = _("CATScoin Core catscoin-tx utility version") + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = _("Cats Coin catscoin-tx utility version") + " " + FormatFullVersion() + "\n\n" +
                                _("Usage:") + "\n" +
                                "  catscoin-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded catscoin transaction") + "\n" +
                                "  catscoin-tx [options] -create [commands]   " + _("Create hex-encoded catscoin transaction") + "\n" +

@@ -18,7 +18,7 @@ BITCOIND_BIN=${BITCOIND_BIN:-/usr/bin/catscoind}
 BITCOIND_NICE=${BITCOIND_NICE:-${NICELEVEL:-0}}
 BITCOIND_OPTS="${BITCOIND_OPTS:-${BITCOIN_OPTS}}"
 
-name="CATSCOIN Core Daemon"
+name="Cats Coin Daemon"
 description="CATSCOIN crypto-currency p2p network daemon"
 
 command="/usr/bin/catscoind"

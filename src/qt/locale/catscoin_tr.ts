@@ -1467,16 +1467,16 @@ Cüzdanınız senkronize olduktan ve harcanmamış bakiyeniz yeterli miktarda on
         <translation>versiyon</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN CORE</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
-        <translation>CATSCOIN Core Hakkında </translation>
+        <source>About Cats Coin</source>
+        <translation>Cats Coin Hakkında </translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1526,16 +1526,16 @@ Cüzdanınız senkronize olduktan ve harcanmamış bakiyeniz yeterli miktarda on
         <translation>Hoşgeldiniz</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
-        <translation>CATSCOIN Core'a hoşgeldiniz.</translation>
+        <source>Welcome to Cats Coin.</source>
+        <translation>Cats Coin'a hoşgeldiniz.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
-        <translation>Program ilk başlatıldığında CATSCOIN Core'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
+        <translation>Program ilk başlatıldığında Cats Coin'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CATSCOIN Core, CATSCOIN blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecektir. Ayrıca cüzdanınız da bu dizinde saklanır.</translation>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Cats Coin, CATSCOIN blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecektir. Ayrıca cüzdanınız da bu dizinde saklanır.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1554,8 +1554,8 @@ Cüzdanınız senkronize olduktan ve harcanmamış bakiyeniz yeterli miktarda on
         <translation>TAMAM</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2341,8 +2341,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN CORE</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -2369,8 +2369,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
         <translation>Uygulamayı sonlandır</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
-        <translation>CATSCOIN Core istemci</translation>
+        <source>Cats Coin client</source>
+        <translation>Cats Coin istemci</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2777,8 +2777,8 @@ transaction history, making transactions untraceable </source>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN CORE</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -2797,8 +2797,8 @@ transaction history, making transactions untraceable </source>
         <translation>Masternode konfigürasyon dosyası okuma hatası: %1</translation>
     </message>
     <message>
-        <source>CATSCOIN Core didn't yet exit safely...</source>
-        <translation>CATSCOIN Core henüz güvenle kapanmadı..</translation>
+        <source>Cats Coin didn't yet exit safely...</source>
+        <translation>Cats Coin henüz güvenle kapanmadı..</translation>
     </message>
 </context>
 <context>
@@ -4242,7 +4242,7 @@ bu sayede CATSCOIN sahipleri blok ödülü kazanımına katılabilmektedir
                            zCATS is an optional privacy-centric method of coin mixing on the
                            CATSCOIN blockchain. Basically all your transactions cannot be tracked
                            on to any block explorer. You can read more about the technicals in the
-                           &lt;a style='color: #6b3dca' href='https://catscoin.org/zcats/'&gt;
+                           &lt;a style='color: #f13845' href='https://catscoin.org/zcats/'&gt;
                            "CATSCOIN Zerocoin (zCATS) Technical Paper"&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </source>
@@ -4252,7 +4252,7 @@ bu sayede CATSCOIN sahipleri blok ödülü kazanımına katılabilmektedir
 gizlilik-odaklı opsiyonel bir metoddur. Temel olarak işlemleriniz
  hiçbir tarayıcı tarafından takip edilemez. Teknik detayları
  hakkında daha çok bilgi almak için
-                           &lt;a style='color: #6b3dca' href='https://catscoin.org/zcats/'&gt;
+                           &lt;a style='color: #f13845' href='https://catscoin.org/zcats/'&gt;
                            "CATSCOIN Zerocoin (zCATS) Teknik Makalesi"&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </translation>
@@ -4302,7 +4302,7 @@ gizlilik-odaklı opsiyonel bir metoddur. Temel olarak işlemleriniz
                            marks and restart your wallet to disable automint.&lt;/p&gt;
                            &lt;/p&gt;&lt;p align="justify"&gt;
                            You can read more about zCATS in the
-                           &lt;a style='color: #6b3dca' href='https://catscoin.org/zcats/'&gt; "CATSCOIN Zerocoin (zCATS) Technical Paper"&lt;/a&gt;.
+                           &lt;a style='color: #f13845' href='https://catscoin.org/zcats/'&gt; "CATSCOIN Zerocoin (zCATS) Technical Paper"&lt;/a&gt;.
                            If you would like to keep and stake your zCATS, please read the "How do I stake"
                            section of the FAQ below.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
@@ -4312,7 +4312,7 @@ gizlilik-odaklı opsiyonel bir metoddur. Temel olarak işlemleriniz
                            CATSCOIN cüzdanınız ağa destek olmak için varsayılan olarak tüm CATS bakiyenizin 10% 'unu zCATS'e dönüştürecektir. Getirdiği gizlilik avantajını istemiyor veya zCATS stakelemek istemiyorsanız cüzdanınızın otomint özelliğini Ayarlar-&gt;Seçenekler içindeki “zCATS Otomint etkin” seçeneğini değiştirerek devredışı bırakabilirsiniz. CATSCOINQT veya GUI kullanmıyorsanız, catscoin.conf dosyası içine  &lt;i&gt;enablezeromint=0&lt;/i&gt; ifadesini tırnak işareti olmadan girerek devredışı bırakabilirsiniz. &lt;/p&gt;
                            &lt;/p&gt;&lt;p align="justify"&gt;
                            Teknik detayları hakkında daha çok bilgi almak için
-                           &lt;a style='color: #6b3dca' href='https://catscoin.org/zcats/'&gt; "CATSCOIN Zerocoin (zCATS) Teknik Makalesi"&lt;/a&gt;.
+                           &lt;a style='color: #f13845' href='https://catscoin.org/zcats/'&gt; "CATSCOIN Zerocoin (zCATS) Teknik Makalesi"&lt;/a&gt;.
                            zCATS'lerinizi tutmak ve stakelemek istiyorsanız, lütfen SSS kısmındaki "Nasıl Stake yaparım"
 kısmını okuyunuz.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
@@ -4423,20 +4423,20 @@ zCATS Protokolü ile anonimleştirilmiş olacaktır.
         <source>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
                            We have support channels in most of our official chat groups, for example
-                           &lt;a style='color: #6b3dca' href='https://Discord.CATSCOIN.org'&gt;
+                           &lt;a style='color: #f13845' href='https://Discord.CATSCOIN.org'&gt;
                            #support in our Discord&lt;/a&gt;.
                            If you prefer to submit a ticket, One can be
-                           &lt;a style='color: #6b3dca' href='https://CATSCOIN.FreshDesk.com'&gt;
+                           &lt;a style='color: #f13845' href='https://CATSCOIN.FreshDesk.com'&gt;
                            our Freshdesk support site&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </source>
         <translation>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
                            Resmi chat gruplarımızın çoğunun içinde destek kanalları bulunmaktadır, örneğin
-                           &lt;a style='color: #6b3dca' href='https://Discord.CATSCOIN.org'&gt;
+                           &lt;a style='color: #f13845' href='https://Discord.CATSCOIN.org'&gt;
                            Discord içinnde #support &lt;/a&gt;.
                            Bir destek talebi açmak isterseniz,bunu
-                           &lt;a style='color: #6b3dca' href='https://CATSCOIN.FreshDesk.com'&gt;
+                           &lt;a style='color: #f13845' href='https://CATSCOIN.FreshDesk.com'&gt;
                            Freshdesk destek sitesinden yapabilirsiniz&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </translation>
@@ -4452,7 +4452,7 @@ zCATS Protokolü ile anonimleştirilmiş olacaktır.
     <message>
         <source>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
-                           A masternode is a computer running a full node CATSCOIN core wallet with a
+                           A masternode is a computer running a full node Cats Coin wallet with a
                            requirement of 10,000 CATS secured collateral to provide extra services
                            to the network and in return, receive a portion of the block reward
                            regularly.  These services include:
@@ -4494,7 +4494,7 @@ zCATS Protokolü ile anonimleştirilmiş olacaktır.
                          </source>
         <translation>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
-                           Tam düğüm CATSCOIN core cüzdanını çalıştıran, gereken 10,000 CATS
+                           Tam düğüm Cats Coin cüzdanını çalıştıran, gereken 10,000 CATS
                            teminat bakiyesini barındırarak ağa ekstra hizmetler sunan ve
                            karşılığında da her blok ödülünden düzenli olarak pay alan bir
                            bilgisayardır.Bu hizmetler aşağıdaki gibidir:
@@ -5341,8 +5341,8 @@ Emin misiniz?
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
-        <translation>CATSCOIN Core kapanıyor ...</translation>
+        <source>Cats Coin is shutting down...</source>
+        <translation>Cats Coin kapanıyor ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -5371,15 +5371,15 @@ Emin misiniz?
         <translation>Yükleniyor...</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN CORE</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -5394,8 +5394,8 @@ Emin misiniz?
         <translation>The Dash Core developers</translation>
     </message>
     <message>
-        <source>The CATSCOIN Core developers</source>
-        <translation>The CATSCOIN Core developers</translation>
+        <source>The Cats Coin developers</source>
+        <translation>The Cats Coin developers</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -6125,8 +6125,8 @@ Emin misiniz?
     </message>
     <message>
         <source>Welcome to
-CATSCOIN Core Wallet</source>
-        <translation>CATSCOIN Core Cüzdanı'na
+Cats Coin Wallet</source>
+        <translation>Cats Coin Cüzdanı'na
 Hoşgeldiniz</translation>
     </message>
     <message>
@@ -6224,8 +6224,8 @@ Hoşgeldiniz</translation>
         <translation>Hesaplanan akümülatör kontrol noktası, blok indeksiyle kaydedilen kontrol noktası değildir.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CATSCOIN Core is probably already running.</source>
-        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. CATSCOIN Core muhtemelen zaten çalışıyor.</translation>
+        <source>Cannot obtain a lock on data directory %s. Cats Coin is probably already running.</source>
+        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. Cats Coin muhtemelen zaten çalışıyor.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -6424,8 +6424,8 @@ Hoşgeldiniz</translation>
         <translation>Ağ versiyon dizisi toplam uzunluğu(%i) maksimum uzunluğu aşıyor(%i). Yorumların büyüklüğünü veya sayısını azaltın.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CATSCOIN Core is probably already running.</source>
-        <translation>Bu bilgisayarda %s 'e bağlanılamıyor. CATSCOIN Core muhtemelen zaten çalışıyor.</translation>
+        <source>Unable to bind to %s on this computer. Cats Coin is probably already running.</source>
+        <translation>Bu bilgisayarda %s 'e bağlanılamıyor. Cats Coin muhtemelen zaten çalışıyor.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -6452,12 +6452,12 @@ Hoşgeldiniz</translation>
         <translation>Uyarı: paytxfee değeri çok yüksek ayarlanmış! Bu para gönderirken ödeyeceğiniz transfer ücretidir.</translation>
     </message>
     <message>
-        <source>Warning: Peers are being disconnected due time differences. Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
-        <translation>Uyarı: Zaman farkı sebebiyle eşlerin bağlantısı koptı. Bilgisayarınızın tarih ve saat ayarlarının doğruluğunu kontrol edin! Saatiniz yanlış ise CATSCOIN Core düzgün çalışmayacaktır. </translation>
+        <source>Warning: Peers are being disconnected due time differences. Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
+        <translation>Uyarı: Zaman farkı sebebiyle eşlerin bağlantısı koptı. Bilgisayarınızın tarih ve saat ayarlarının doğruluğunu kontrol edin! Saatiniz yanlış ise Cats Coin düzgün çalışmayacaktır. </translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
-        <translation>Uyarı: Bilgisayarınızın tarih ve saat ayarlarının doğruluğunu kontrol edin! Saatiniz yanlış ise CATSCOIN Core düzgün çalışmayacaktır. </translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
+        <translation>Uyarı: Bilgisayarınızın tarih ve saat ayarlarının doğruluğunu kontrol edin! Saatiniz yanlış ise Cats Coin düzgün çalışmayacaktır. </translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -6596,8 +6596,8 @@ Hoşgeldiniz</translation>
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CATSCOIN Core Developers</source>
-        <translation>Copyright (C) 2015-%i The CATSCOIN Core Developers</translation>
+        <source>Copyright (C) 2015-%i The Cats Coin Developers</source>
+        <translation>Copyright (C) 2015-%i The Cats Coin Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -6684,8 +6684,8 @@ Hoşgeldiniz</translation>
         <translation>Wallet.dat yüklenirken hata oluştu: Cüzdan dosyası bozuk</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</source>
-        <translation>Wallet.dat yüklenirken hata oluştu: Cüzdan daha yeni bir CATSCOIN Core versiyonuna ihtiyaç duyuyor</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cats Coin</source>
+        <translation>Wallet.dat yüklenirken hata oluştu: Cüzdan daha yeni bir Cats Coin versiyonuna ihtiyaç duyuyor</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -6776,8 +6776,8 @@ Hoşgeldiniz</translation>
         <translation>bilgi</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CATSCOIN Core is shutting down.</source>
-        <translation>Sağlama kontrolü başlatımı başarısız. CATSCOIN Core kapatılıyor.</translation>
+        <source>Initialization sanity check failed. Cats Coin is shutting down.</source>
+        <translation>Sağlama kontrolü başlatımı başarısız. Cats Coin kapatılıyor.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -7496,8 +7496,8 @@ Hoşgeldiniz</translation>
         <translation>Cüzdan %s bilgi dizini %s dışında bulunuyor</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CATSCOIN Core to complete</source>
-        <translation>Cüzdanın tekrar yazılması gerekiyor: tamamlamak için CATSCOIN Core uygulamasını tekrar başlatın.</translation>
+        <source>Wallet needed to be rewritten: restart Cats Coin to complete</source>
+        <translation>Cüzdanın tekrar yazılması gerekiyor: tamamlamak için Cats Coin uygulamasını tekrar başlatın.</translation>
     </message>
     <message>
         <source>Wallet options:</source>

@@ -908,16 +908,16 @@ for staking</source>
         <translation>versió</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
-        <translation>Sobre CATSCOIN Core</translation>
+        <source>About Cats Coin</source>
+        <translation>Sobre Cats Coin</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -967,12 +967,12 @@ for staking</source>
         <translation>Benvingut</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
-        <translation>Benvingut a CATSCOIN Core.</translation>
+        <source>Welcome to Cats Coin.</source>
+        <translation>Benvingut a Cats Coin.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
-        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del CATSCOIN Core.</translation>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
+        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del Cats Coin.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -987,8 +987,8 @@ for staking</source>
         <translation>D'acord</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1199,8 +1199,8 @@ for staking</source>
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1223,8 +1223,8 @@ for staking</source>
         <translation>Surt de l'aplicació</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
-        <translation>Client CATSCOIN core</translation>
+        <source>Cats Coin client</source>
+        <translation>Client Cats Coin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1305,8 +1305,8 @@ for staking</source>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     </context>
 <context>
@@ -1842,8 +1842,8 @@ for staking</source>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
-        <translation>CATSCOIN Core s'està tancant...</translation>
+        <source>Cats Coin is shutting down...</source>
+        <translation>Cats Coin s'està tancant...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1864,15 +1864,15 @@ for staking</source>
         <translation>Formulari</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Version %1</source>

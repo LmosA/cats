@@ -752,16 +752,16 @@
         <translation>version</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
-        <translation>About CATSCOIN Core</translation>
+        <source>About Cats Coin</source>
+        <translation>About Cats Coin</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -807,24 +807,24 @@
         <translation>Welcome</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
-        <translation>Welcome to CATSCOIN Core.</translation>
+        <source>Welcome to Cats Coin.</source>
+        <translation>Welcome to Cats Coin.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
-        <translation>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
+        <translation>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</translation>
     </message>
     <message>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
         <translation>Use the default data directory</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1265,8 +1265,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1293,8 +1293,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
         <translation>Quit application</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
-        <translation>CATSCOIN Core client</translation>
+        <source>Cats Coin client</source>
+        <translation>Cats Coin client</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1507,8 +1507,8 @@ Address: %4
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     </context>
 <context>
@@ -2482,8 +2482,8 @@ Please check the address and try again.</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
-        <translation>CATSCOIN Core is shutting down...</translation>
+        <source>Cats Coin is shutting down...</source>
+        <translation>Cats Coin is shutting down...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2504,15 +2504,15 @@ Please check the address and try again.</translation>
         <translation>Form</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2527,8 +2527,8 @@ Please check the address and try again.</translation>
         <translation>The Dash Core developers</translation>
     </message>
     <message>
-        <source>The CATSCOIN Core developers</source>
-        <translation>The CATSCOIN Core developers</translation>
+        <source>The Cats Coin developers</source>
+        <translation>The Cats Coin developers</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3011,8 +3011,8 @@ Please check the address and try again.</translation>
         <translation>Calculated accumulator checkpoint is not what is recorded by block index</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CATSCOIN Core is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. CATSCOIN Core is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. Cats Coin is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. Cats Coin is probably already running.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -3187,8 +3187,8 @@ Please check the address and try again.</translation>
         <translation>Total length of network version string (%i) exceeds maximum length (%i). Reduce the number or size of uacomments.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CATSCOIN Core is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. CATSCOIN Core is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. Cats Coin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. Cats Coin is probably already running.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -3215,8 +3215,8 @@ Please check the address and try again.</translation>
         <translation>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
-        <translation>Warning: Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
+        <translation>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -3347,8 +3347,8 @@ Please check the address and try again.</translation>
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CATSCOIN Core Developers</source>
-        <translation>Copyright (C) 2015-%i The CATSCOIN Core Developers</translation>
+        <source>Copyright (C) 2015-%i The Cats Coin Developers</source>
+        <translation>Copyright (C) 2015-%i The Cats Coin Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3427,8 +3427,8 @@ Please check the address and try again.</translation>
         <translation>Error loading wallet.dat: Wallet corrupted</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cats Coin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Cats Coin</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -3519,8 +3519,8 @@ Please check the address and try again.</translation>
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CATSCOIN Core is shutting down.</source>
-        <translation>Initialisation sanity check failed. CATSCOIN Core is shutting down.</translation>
+        <source>Initialization sanity check failed. Cats Coin is shutting down.</source>
+        <translation>Initialisation sanity check failed. Cats Coin is shutting down.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -4187,8 +4187,8 @@ Please check the address and try again.</translation>
         <translation>Wallet %s resides outside data directory %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CATSCOIN Core to complete</source>
-        <translation>Wallet needed to be rewritten: restart CATSCOIN Core to complete</translation>
+        <source>Wallet needed to be rewritten: restart Cats Coin to complete</source>
+        <translation>Wallet needed to be rewritten: restart Cats Coin to complete</translation>
     </message>
     <message>
         <source>Wallet options:</source>

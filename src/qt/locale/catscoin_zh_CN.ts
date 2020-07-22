@@ -1466,16 +1466,16 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>版本</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-位)</translation>
     </message>
     <message>
-        <source>About CATSCOIN Core</source>
-        <translation>关于CATSCOIN Core</translation>
+        <source>About Cats Coin</source>
+        <translation>关于Cats Coin</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1525,16 +1525,16 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>欢迎</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
-        <translation>欢迎使用 CATSCOIN Core</translation>
+        <source>Welcome to Cats Coin.</source>
+        <translation>欢迎使用 Cats Coin</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CATSCOIN Core will store its data.</source>
-        <translation>由于这是该程序第一次启动，您可以选择存储CATSCOIN Core 数据的位置。</translation>
+        <source>As this is the first time the program is launched, you can choose where Cats Coin will store its data.</source>
+        <translation>由于这是该程序第一次启动，您可以选择存储Cats Coin 数据的位置。</translation>
     </message>
     <message>
-        <source>CATSCOIN Core will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CATSCOIN Core将下载并存储CATSCOIN区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
+        <source>Cats Coin will download and store a copy of the CATSCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Cats Coin将下载并存储CATSCOIN区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1553,8 +1553,8 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>OK</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2341,8 +2341,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -2369,8 +2369,8 @@ https://www.transifex.com/CATScoin/CATScoin-translations</translation>
         <translation>关闭应用</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
-        <translation>CATSCOIN Core 客户端</translation>
+        <source>Cats Coin client</source>
+        <translation>Cats Coin 客户端</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2779,8 +2779,8 @@ transaction history, making transactions untraceable </source>
         <translation>%1 毫秒</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -2799,7 +2799,7 @@ transaction history, making transactions untraceable </source>
         <translation>读取主节点配置文件出错:%1</translation>
     </message>
     <message>
-        <source>CATSCOIN Core didn't yet exit safely...</source>
+        <source>Cats Coin didn't yet exit safely...</source>
         <translation>CATSCOIN核心尚未安全退出……</translation>
     </message>
 </context>
@@ -4243,7 +4243,7 @@ CATSCOIN使用了一个股权证明(PoS)一致系统算法，
                            zCATS is an optional privacy-centric method of coin mixing on the
                            CATSCOIN blockchain. Basically all your transactions cannot be tracked
                            on to any block explorer. You can read more about the technicals in the
-                           &lt;a style='color: #6b3dca' href='https://catscoin.org/zcats/'&gt;
+                           &lt;a style='color: #f13845' href='https://catscoin.org/zcats/'&gt;
                            "CATSCOIN Zerocoin (zCATS) Technical Paper"&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </source>
@@ -4251,7 +4251,7 @@ CATSCOIN使用了一个股权证明(PoS)一致系统算法，
 &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
 zCATS是一种可选的以隐私为中心的隐私币
 它是CATSCOIN区块链的一员，基本上在任何块资源管理器
-所有的交易都不能被跟踪&lt;a style='color: #6b3dca' href='https://catscoin.org/zcats/'&gt;
+所有的交易都不能被跟踪&lt;a style='color: #f13845' href='https://catscoin.org/zcats/'&gt;
 
 你可以阅读更多关于技术方面的文章&lt;/a&gt;
 
@@ -4391,19 +4391,19 @@ CATSCOIN零币(zCATS)技术文件
         <source>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
                            We have support channels in most of our official chat groups, for example
-                           &lt;a style='color: #6b3dca' href='https://Discord.CATSCOIN.org'&gt;
+                           &lt;a style='color: #f13845' href='https://Discord.CATSCOIN.org'&gt;
                            #support in our Discord&lt;/a&gt;.
                            If you prefer to submit a ticket, One can be
-                           &lt;a style='color: #6b3dca' href='https://CATSCOIN.FreshDesk.com'&gt;
+                           &lt;a style='color: #f13845' href='https://CATSCOIN.FreshDesk.com'&gt;
                            our Freshdesk support site&lt;/a&gt;.
                            &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
                          </source>
         <translation>
 &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
 例如，我们在大多数官方聊天组中都有支持频道
-&lt;a style='color: #6b3dca' href='https://Discord.CATSCOIN.org'&gt;
+&lt;a style='color: #f13845' href='https://Discord.CATSCOIN.org'&gt;
 #在&lt;/a&gt;Discord支持我们
-如果您想订票&lt;a style='color: #6b3dca' href='https://CATSCOIN.FreshDesk.com'&gt;，我们可以为您提供前台支持&lt;/a&gt;
+如果您想订票&lt;a style='color: #f13845' href='https://CATSCOIN.FreshDesk.com'&gt;，我们可以为您提供前台支持&lt;/a&gt;
 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
@@ -4417,7 +4417,7 @@ CATSCOIN零币(zCATS)技术文件
     <message>
         <source>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
-                           A masternode is a computer running a full node CATSCOIN core wallet with a
+                           A masternode is a computer running a full node Cats Coin wallet with a
                            requirement of 10,000 CATS secured collateral to provide extra services
                            to the network and in return, receive a portion of the block reward
                            regularly.  These services include:
@@ -5303,7 +5303,7 @@ Are you sure?
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
+        <source>Cats Coin is shutting down...</source>
         <translation>CATSCOIN 核心正在关闭...</translation>
     </message>
     <message>
@@ -5333,15 +5333,15 @@ Are you sure?
         <translation>正在下载…</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
-        <translation>CATSCOIN Core</translation>
+        <source>Cats Coin</source>
+        <translation>Cats Coin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -5356,7 +5356,7 @@ Are you sure?
         <translation>达世币核心开发者</translation>
     </message>
     <message>
-        <source>The CATSCOIN Core developers</source>
+        <source>The Cats Coin developers</source>
         <translation>CATSCOIN 核心开发者</translation>
     </message>
     <message>
@@ -6087,7 +6087,7 @@ Are you sure?
     </message>
     <message>
         <source>Welcome to
-CATSCOIN Core Wallet</source>
+Cats Coin Wallet</source>
         <translation>欢迎
 CATSCOIN核心钱包</translation>
     </message>
@@ -6186,7 +6186,7 @@ CATSCOIN核心钱包</translation>
         <translation>计算累加器检查点并不是块索引记录的内容</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CATSCOIN Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Cats Coin is probably already running.</source>
         <translation>无法获取数据目录%s锁。CATSCOIN核心可能已经在运行了。</translation>
     </message>
     <message>
@@ -6386,7 +6386,7 @@ CATSCOIN核心钱包</translation>
         <translation>网络版本字符串的总长度(%i)超过最大长度(%i)。减少任务的数量或大小。</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CATSCOIN Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Cats Coin is probably already running.</source>
         <translation>无法绑定到此计算机上的%s。CATSCOIN核心可能已经在运行了。</translation>
     </message>
     <message>
@@ -6414,12 +6414,12 @@ CATSCOIN核心钱包</translation>
         <translation>警告:-支付tx费用设置的非常高!这是您发送交易时要支付的交易费。</translation>
     </message>
     <message>
-        <source>Warning: Peers are being disconnected due time differences. Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
-        <translation>警告：由于时差，对等连接已断开。 请检查计算机的日期和时间是否正确！ 如果您的时钟错误，CATSCOIN Core将无法正常工作。</translation>
+        <source>Warning: Peers are being disconnected due time differences. Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
+        <translation>警告：由于时差，对等连接已断开。 请检查计算机的日期和时间是否正确！ 如果您的时钟错误，Cats Coin将无法正常工作。</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CATSCOIN Core will not work properly.</source>
-        <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，CATSCOIN Core将无法正常工作。</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cats Coin will not work properly.</source>
+        <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，Cats Coin将无法正常工作。</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -6558,7 +6558,7 @@ CATSCOIN核心钱包</translation>
         <translation>版权所有(C) 2014-%i的达世核心开发者</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CATSCOIN Core Developers</source>
+        <source>Copyright (C) 2015-%i The Cats Coin Developers</source>
         <translation>版权所有(C) 2015-%i CATSCOIN核心开发者</translation>
     </message>
     <message>
@@ -6646,7 +6646,7 @@ CATSCOIN核心钱包</translation>
         <translation>加载钱包出错。dat:钱包损坏</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cats Coin</source>
         <translation>加载的钱包出错。dat: 钱包需要更新版本的CATSCOIN核心</translation>
     </message>
     <message>
@@ -6738,7 +6738,7 @@ CATSCOIN核心钱包</translation>
         <translation>信息</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CATSCOIN Core is shutting down.</source>
+        <source>Initialization sanity check failed. Cats Coin is shutting down.</source>
         <translation>初始化完整性检查失败。CATSCOIN核心快要关闭了。</translation>
     </message>
     <message>
@@ -7458,7 +7458,7 @@ CATSCOIN核心钱包</translation>
         <translation>钱包%s驻留在数据目录%s之外</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CATSCOIN Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Cats Coin to complete</source>
         <translation>钱包需要重写:重新启动CATSCOIN核心完成</translation>
     </message>
     <message>

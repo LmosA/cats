@@ -451,7 +451,7 @@ void DashboardWidget::changeChartColors(){
     }else{
         gridY = QColor("#40ffffff");
         axisY->setGridLineColor(gridY);
-        gridLineColorX = QColor(15,11,22);
+        gridLineColorX = QColor(20, 10, 11);
         linePenColorY =  gridLineColorX;
         backgroundColor = linePenColorY;
     }
@@ -636,7 +636,7 @@ void DashboardWidget::onChartRefreshed() {
     // init sets
     set0 = new QBarSet("CATS");
     set1 = new QBarSet("zCATS");
-    set0->setColor(QColor(92,75,125));
+    set0->setColor(QColor(241, 56, 69));
     set1->setColor(QColor(176,136,255));
 
     if(!series) {

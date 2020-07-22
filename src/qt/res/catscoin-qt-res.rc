@@ -20,13 +20,13 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "CATScoin"
-            VALUE "FileDescription",    "CATScoin Core (OSS GUI client for CATScoin)"
+            VALUE "FileDescription",    "Cats Coin (OSS GUI client for CATScoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "catscoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "catscoin-qt.exe"
-            VALUE "ProductName",        "CATScoin Core"
+            VALUE "ProductName",        "Cats Coin"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

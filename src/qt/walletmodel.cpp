@@ -315,7 +315,7 @@ bool WalletModel::validateStakingAddress(const QString& address) {
             return true;
 
         // mainnet check
-        if (firstLetter == 's')
+        if (firstLetter == 'd')
             return true;
     }
     return false;

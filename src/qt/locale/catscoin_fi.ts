@@ -560,7 +560,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN Ydin</translation>
     </message>
     <message>
@@ -579,11 +579,11 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to CATSCOIN Core.</source>
+        <source>Welcome to Cats Coin.</source>
         <translation>Tervetuloa CATSCOIN Ytimeen.</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN Ydin</translation>
     </message>
     <message>
@@ -871,7 +871,7 @@
 <context>
     <name>CATSCOINGUI</name>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN Ydin</translation>
     </message>
     <message>
@@ -899,7 +899,7 @@
         <translation>Lopeta ohjelma</translation>
     </message>
     <message>
-        <source>CATSCOIN Core client</source>
+        <source>Cats Coin client</source>
         <translation>CATSCOIN Ydin asiakasohjelma</translation>
     </message>
     <message>
@@ -965,7 +965,7 @@
         <translation>Määrä</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN Ydin</translation>
     </message>
     </context>
@@ -1582,8 +1582,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CATSCOIN Core is shutting down...</source>
-        <translation>CATSCOIN core sammuu...</translation>
+        <source>Cats Coin is shutting down...</source>
+        <translation>Cats Coin sammuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1604,14 +1604,14 @@
         <translation>Lomake</translation>
     </message>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN Ydin</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CATSCOIN Core</source>
+        <source>Cats Coin</source>
         <translation>CATSCOIN Ydin</translation>
     </message>
     <message>
@@ -1627,8 +1627,8 @@
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
-        <source>The CATSCOIN Core developers</source>
-        <translation>CATSCOIN core kehittäjät</translation>
+        <source>The Cats Coin developers</source>
+        <translation>Cats Coin kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1887,8 +1887,8 @@
         <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko korruptoitunut</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core</source>
-        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version CATSCOIN Coresta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cats Coin</source>
+        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version Cats Coinsta</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

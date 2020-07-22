@@ -519,13 +519,13 @@ void SettingsConsoleWidget::changeTheme(bool isLightTheme, QString &theme)
                 "b { color: #707070; } ");
     } else {
         ui->messagesWidget->document()->setDefaultStyleSheet(
-                "table { color: #FFFFFF; }"
+                "table { color: #707070; }"
                 "td.time { color: #808080; padding-top: 3px; } "
-                "td.message { color: #FFFFFF;font-family: Courier, Courier New, Lucida Console, monospace; font-size: 12px; } " // Todo: Remove fixed font-size
+                "td.message { color: #707070;font-family: Courier, Courier New, Lucida Console, monospace; font-size: 12px; } " // Todo: Remove fixed font-size
                 "td.cmd-request { color: #006060; } "
                 "td.cmd-error { color: red; } "
                 ".secwarning { color: red; }"
-                "b { color: #FFFFFF; } ");
+                "b { color: #707070; } ");
     }
     updateStyle(ui->messagesWidget);
 }

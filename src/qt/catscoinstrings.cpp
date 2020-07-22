@@ -32,7 +32,7 @@ QT_TRANSLATE_NOOP("catscoin-core", ""
 QT_TRANSLATE_NOOP("catscoin-core", ""
 "Calculated accumulator checkpoint is not what is recorded by block index"),
 QT_TRANSLATE_NOOP("catscoin-core", ""
-"Cannot obtain a lock on data directory %s. CATSCOIN Core is probably already "
+"Cannot obtain a lock on data directory %s. Cats Coin is probably already "
 "running."),
 QT_TRANSLATE_NOOP("catscoin-core", ""
 "Change automatic finalized budget voting behavior. mode=auto: Vote for only "
@@ -209,7 +209,7 @@ QT_TRANSLATE_NOOP("catscoin-core", ""
 "Total length of network version string (%i) exceeds maximum length (%i). "
 "Reduce the number or size of uacomments."),
 QT_TRANSLATE_NOOP("catscoin-core", ""
-"Unable to bind to %s on this computer. CATSCOIN Core is probably already running."),
+"Unable to bind to %s on this computer. Cats Coin is probably already running."),
 QT_TRANSLATE_NOOP("catscoin-core", ""
 "Unable to locate enough Obfuscation denominated funds for this transaction."),
 QT_TRANSLATE_NOOP("catscoin-core", ""
@@ -233,7 +233,7 @@ QT_TRANSLATE_NOOP("catscoin-core", ""
 "Core will not work properly."),
 QT_TRANSLATE_NOOP("catscoin-core", ""
 "Warning: Please check that your computer's date and time are correct! If "
-"your clock is wrong CATSCOIN Core will not work properly."),
+"your clock is wrong Cats Coin will not work properly."),
 QT_TRANSLATE_NOOP("catscoin-core", ""
 "Warning: The network does not appear to fully agree! Some miners appear to "
 "be experiencing issues."),
@@ -287,7 +287,7 @@ QT_TRANSLATE_NOOP("catscoin-core", "Connect to a node to retrieve peer addresses
 QT_TRANSLATE_NOOP("catscoin-core", "Connection options:"),
 QT_TRANSLATE_NOOP("catscoin-core", "Copyright (C) 2009-%i The Bitcoin Core Developers"),
 QT_TRANSLATE_NOOP("catscoin-core", "Copyright (C) 2014-%i The Dash Core Developers"),
-QT_TRANSLATE_NOOP("catscoin-core", "Copyright (C) 2015-%i The CATSCOIN Core Developers"),
+QT_TRANSLATE_NOOP("catscoin-core", "Copyright (C) 2015-%i The Cats Coin Developers"),
 QT_TRANSLATE_NOOP("catscoin-core", "Corrupted block database detected"),
 QT_TRANSLATE_NOOP("catscoin-core", "Could not parse masternode.conf"),
 QT_TRANSLATE_NOOP("catscoin-core", "Couldn't generate the accumulator witness"),
@@ -316,7 +316,7 @@ QT_TRANSLATE_NOOP("catscoin-core", "Error initializing wallet database environme
 QT_TRANSLATE_NOOP("catscoin-core", "Error loading block database"),
 QT_TRANSLATE_NOOP("catscoin-core", "Error loading wallet.dat"),
 QT_TRANSLATE_NOOP("catscoin-core", "Error loading wallet.dat: Wallet corrupted"),
-QT_TRANSLATE_NOOP("catscoin-core", "Error loading wallet.dat: Wallet requires newer version of CATSCOIN Core"),
+QT_TRANSLATE_NOOP("catscoin-core", "Error loading wallet.dat: Wallet requires newer version of Cats Coin"),
 QT_TRANSLATE_NOOP("catscoin-core", "Error opening block database"),
 QT_TRANSLATE_NOOP("catscoin-core", "Error reading from database, shutting down."),
 QT_TRANSLATE_NOOP("catscoin-core", "Error writing zerocoinDB to disk"),
@@ -347,7 +347,7 @@ QT_TRANSLATE_NOOP("catscoin-core", "Imports blocks from external blk000??.dat fi
 QT_TRANSLATE_NOOP("catscoin-core", "Include IP addresses in debug output (default: %u)"),
 QT_TRANSLATE_NOOP("catscoin-core", "Incorrect or no genesis block found. Wrong datadir for network?"),
 QT_TRANSLATE_NOOP("catscoin-core", "Information"),
-QT_TRANSLATE_NOOP("catscoin-core", "Initialization sanity check failed. CATSCOIN Core is shutting down."),
+QT_TRANSLATE_NOOP("catscoin-core", "Initialization sanity check failed. Cats Coin is shutting down."),
 QT_TRANSLATE_NOOP("catscoin-core", "Insufficient funds"),
 QT_TRANSLATE_NOOP("catscoin-core", "Insufficient funds."),
 QT_TRANSLATE_NOOP("catscoin-core", "Invalid -onion address or hostname: '%s'"),
@@ -489,7 +489,7 @@ QT_TRANSLATE_NOOP("catscoin-core", "Value is below the smallest available denomi
 QT_TRANSLATE_NOOP("catscoin-core", "Verifying blocks..."),
 QT_TRANSLATE_NOOP("catscoin-core", "Verifying wallet..."),
 QT_TRANSLATE_NOOP("catscoin-core", "Wallet %s resides outside data directory %s"),
-QT_TRANSLATE_NOOP("catscoin-core", "Wallet needed to be rewritten: restart CATSCOIN Core to complete"),
+QT_TRANSLATE_NOOP("catscoin-core", "Wallet needed to be rewritten: restart Cats Coin to complete"),
 QT_TRANSLATE_NOOP("catscoin-core", "Wallet options:"),
 QT_TRANSLATE_NOOP("catscoin-core", "Wallet window title"),
 QT_TRANSLATE_NOOP("catscoin-core", "Warning"),
